@@ -1,0 +1,9 @@
+c:\users\kavi\documents\visual studio 2013\Projects\phase1\phase1\bin\Debug\phase1.exe.config
+c:\users\kavi\documents\visual studio 2013\Projects\phase1\phase1\bin\Debug\phase1.exe
+c:\users\kavi\documents\visual studio 2013\Projects\phase1\phase1\bin\Debug\phase1.pdb
+c:\users\kavi\documents\visual studio 2013\Projects\phase1\phase1\obj\Debug\phase1.csprojResolveAssemblyReference.cache
+c:\users\kavi\documents\visual studio 2013\Projects\phase1\phase1\obj\Debug\phase1.Form1.resources
+c:\users\kavi\documents\visual studio 2013\Projects\phase1\phase1\obj\Debug\phase1.Properties.Resources.resources
+c:\users\kavi\documents\visual studio 2013\Projects\phase1\phase1\obj\Debug\phase1.csproj.GenerateResource.Cache
+c:\users\kavi\documents\visual studio 2013\Projects\phase1\phase1\obj\Debug\phase1.exe
+c:\users\kavi\documents\visual studio 2013\Projects\phase1\phase1\obj\Debug\phase1.pdb
